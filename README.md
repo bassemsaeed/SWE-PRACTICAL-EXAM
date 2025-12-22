@@ -103,6 +103,8 @@ Per the project requirements, we have created various UML diagrams to visualize 
 *   **[Data Flow Diagrams (DFD)](./diagrams/DFD/)**: Visual representations of data processing and flow within the system.
 *   **[Use Case & ER Diagrams](./diagrams/USE-Case%26%26ERD/)**: Actor interactions and database entity relationships.
 
+*   **[Sequence Diagrams](./diagrams/sequence/)**: Actor interactions and database entity relationships.
+
 ---
 
 <div align="center">
